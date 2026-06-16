@@ -354,6 +354,6 @@ Use the sandbox environment for testing:
 ---
 
 **Related Documents:**
-- [API and Contracts Reference](../../API_AND_CONTRACTS_REFERENCE.MD) – All routes and contracts in one place
+- [API and Contracts Reference](../PROJECT/API_AND_CONTRACTS_REFERENCE.MD) – All routes and contracts in one place
 - [Architecture Diagrams](ARCHITECTURE_DIAGRAMS.MD)
-- [Smart Contract Spec](../../SMART_CONTRACT_SPEC.MD)
+- [Smart Contract Spec](../DOCS/SMART_CONTRACT_SPEC.MD)

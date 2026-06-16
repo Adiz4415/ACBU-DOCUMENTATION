@@ -95,7 +95,7 @@ Contracts use canonical naming: **acbu_<domain>_<capability>** (e.g. acbu_mintin
 - Routes are grouped by use case: **P2P**, **SME**, **international**, **salary**, **enterprise**, **savings**, **lending**, **gateway**, **bills**.
 - Segment routes require an API key with the right **segment scope** in `permissions` (e.g. `p2p:read`, `p2p:write`, `savings:read`, `savings:write`). Middleware `requireSegmentScope` enforces this.
 - Users and organizations have **actorType** (retail, sme, enterprise, merchant) and **tier** (free, verified, sme, enterprise); `requireMinTier` can enforce tier for selected routes.
-- See [API and Contracts Reference](../../API_AND_CONTRACTS_REFERENCE.MD) for the full route and scope list.
+- See [API and Contracts Reference](../PROJECT/API_AND_CONTRACTS_REFERENCE.MD) for the full route and scope list.
 
 ## Proof of Reserves
 
@@ -155,7 +155,7 @@ Reserve Structure:
 ---
 
 **Related Documents:**
-- [Pricing Mechanism](../TECHNICAL/PRICING_MECHANISM.MD)
-- [Reserve Management](../TECHNICAL/RESERVE_MANAGEMENT.MD)
-- [Oracle System](../TECHNICAL/ORACLE_SYSTEM.MD)
-- [Rebalancing](../TECHNICAL/REBALANCING.MD)
+- [Pricing Mechanism](PRICING_MECHANISM.MD)
+- [Reserve Management](RESERVE_MANAGEMENT.MD)
+- [Oracle System](ORACLE_SYSTEM.MD)
+- [Rebalancing](REBALANCING.MD)

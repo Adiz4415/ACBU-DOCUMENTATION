@@ -233,7 +233,7 @@ Rust build artifacts; `wasm32-unknown-unknown/release/*.wasm` used for deploymen
 | **DATABASE_SCHEMA.MD** | Database tables and relationships (aligns with Prisma schema). |
 | **IMPLEMENTATION_PLAN.MD** | Phase-by-phase implementation plan. |
 | **KYC_LAYER.md** | KYC design (two-layer, validators, fees, rewards). |
-| **SMART_CONTRACT_SPEC.MD** | Smart contract interfaces and behavior. |
+| **DOCS/SMART_CONTRACT_SPEC.MD** | Smart contract interfaces and behavior. |
 | **TECHNICAL_ROADMAP.MD** | Tech stack (Stellar, Node/Express, PostgreSQL, MongoDB, RabbitMQ, React), infra stages, third-party integrations, security audit schedule. |
 | **PROJECT_STRUCTURE.MD** | This file. |
 
