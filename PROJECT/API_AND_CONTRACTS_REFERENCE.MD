@@ -177,7 +177,7 @@ Optional (Stage 3+): **acbu_rebalancing** for on-chain weight proposals/executio
 
 ## 5. Related docs
 
-- [API Specification](MD/TECHNICAL/API_SPECIFICATION.MD) – Request/response shapes, errors
-- [Smart Contract Spec](SMART_CONTRACT_SPEC.MD) – Contract interfaces and behaviour
-- [Integration (contracts)](../acbu-smart-contract/INTEGRATION.md) – Backend integration with contracts
+- [API Specification](../TECHNICAL/API_SPECIFICATION.MD) – Request/response shapes, errors
+- [Smart Contract Spec](../DOCS/SMART_CONTRACT_SPEC.MD) – Contract interfaces and behaviour
+- [Integration (contracts)](../contracts/INTEGRATION.md) – Backend integration with contracts
 - [Project Structure](PROJECT_STRUCTURE.MD) – Repo layout and responsibilities
